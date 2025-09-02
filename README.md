@@ -11,3 +11,5 @@ Useful for testing, prototyping, or anonymizing datasets.
 - 
 **🛠️ Installation**
 pip install faker
+
+<img width="1156" height="685" alt="image" src="https://github.com/user-attachments/assets/3a4c56e1-8efa-4503-8de7-b88be276fbaa" />
